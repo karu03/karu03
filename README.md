@@ -8,9 +8,8 @@ i've been learning how to code for years . the term AI amazes me .
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [karunsharma1920@gmail.com](mailto:karunsharma1920@gmail.com)
-* 🧠  I'm learning numpy, tensor flow
-* 🤝  I'm open to collaborating on Data science , web dev
-* ⚡  i'm the the real iron man . but currently i am broke
+* 🧠  I'm learning ML and AI
+* 🤝  I'm open to collaborating on Data science, ML, AIa and Web Development 
 
 <a href="https://www.twitter.com/krun.03" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/krun.03?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
